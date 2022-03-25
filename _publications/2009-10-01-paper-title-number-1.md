@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Effects of Large-Scale Municipal Safe Routes to School Infrastructure on Student Active Travel and Physical Activity: Design, Methods, and Baseline Data of the Safe Travel Environment Evaluation in Texas Schools (STREETS) Natural Experiment."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is about the study design, methods, and baseline results of a natual experiment that looks at how city built transportation infrastructure influences children's active commuting to school.'
+date: 2022-02-05
+venue: 'International Journal of Environmental Research and Physical Activity'
+paperurl: 'https://doi.org/10.3390/ijerph19031810'
+citation: 'Hoelscher DM, Ganzar LA, Salvo D, Kohl HW III, Pérez A, Brown HS, Bentley SS, Dooley EE, Emamian A, Durand CP. Effects of Large-Scale Municipal Safe Routes to School Infrastructure on Student Active Travel and Physical Activity: Design, Methods, and Baseline Data of the Safe Travel Environment Evaluation in Texas Schools (STREETS) Natural Experiment. International Journal of Environmental Research and Public Health. 2022; 19(3):1810. https://doi.org/10.3390/ijerph19031810'
+'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
