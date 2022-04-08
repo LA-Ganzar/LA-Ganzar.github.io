@@ -5,14 +5,12 @@ date: '2022-04-07'
 collection: portfolio
 ---
 
-```{r setup, include=FALSE, warning=FALSE}
+```{r setup, echo = FALSE, include=FALSE, warning=FALSE}
 library(tidyverse)
 library(powerMediation)
-
 # Set up colors 
 col1 <- "#fc5200"
 col2 <- "#ade6d6"
-
 # Read hypothetical dataset
 full_df <- readr:: read_csv("/Users/leighannganzar/Desktop/Job Search 2021/Strava/Product Analyst/Strava-AB-Test/sample_AB_data.csv")
 ```
@@ -58,7 +56,6 @@ sample_size
 Results show that a sample of at least 1,372 users is needed to detect a difference in conversion proportions between the control and experimental groups of 0.5. 
 
 ### Results
-
 ```{r echo = FALSE, warning = FALSE}
 prop <- full_df %>%
   mutate(condition = factor(condition,
@@ -82,8 +79,6 @@ prop_cont <- prop %>%
 
 prop_exp <- prop %>%
   filter(condition == "Experimental")
-
-
 ```
 
 ### Calculate relative uplift
